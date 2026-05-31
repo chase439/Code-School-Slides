@@ -1,7 +1,6 @@
 Code-School-Slides
 ==================
-Act: All courses in January 2017 organized as paths
-As of 2026, files are no longer available on AWS S3 links below.
+Act: All courses in January 2017 organized as paths. As of 2026, files are no longer available on AWS S3 links below.
 
 ## HTML&CSS
 
